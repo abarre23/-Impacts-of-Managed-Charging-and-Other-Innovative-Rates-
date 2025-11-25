@@ -4,4 +4,5 @@ Work includes hurdle-model regression for EV charging likelihood and magnitude, 
 
 Center for Advanced Power Engineering Research (CAPER) presentation slides can be located at presentation.pdf
 Center for Advanced Power Engineering Research (CAPER) conference presentation can be located at poster.pdf
+
 Working paper can be located at EV_Charging_Distribution_System_Impacts_Rates.pdf
